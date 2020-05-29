@@ -1,0 +1,24 @@
+{
+    "slug": "Allogic",
+    "version": "1.0.0",
+    "license": "GPL-3.0",
+    "name": "Allogic",
+    "brand": "Allogic",
+    "author": "Allogic",
+    "authorEmail": "",
+    "pluginUrl": "",
+    "authorUrl": "",
+    "manualUrl": "",
+    "sourceUrl": "",
+    "changelogUrl": "",
+    "modules": [
+      {
+        "slug": "Code",
+        "name": "Code",
+        "description": "Code",
+        "tags": [
+          "Code",
+        ]
+      }
+    ]
+  }
